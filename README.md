@@ -1,6 +1,6 @@
-# StructEvidence · Dual Case Research (Public Projection Candidate)
+# StructEvidence · Dual Case Research (Public Evidence-Boundary Studies)
 
-**Public release status: PREPARED, NOT YET PUBLISHED.** This folder is a curated, public-safe projection of two separately reviewed local research dossiers. It is not a mirror of the private repository, Git history, or local raw evidence store.
+**Public release status: PUBLISHED — PROVISIONAL RESEARCH, NOT CERTIFIED.** This folder is a curated, public-safe projection of two separately reviewed local research dossiers. It is not a mirror of the private repository, Git history, or local raw evidence store.
 
 **Historical evidence cutoff:** 2026-10-21 (date precision). **Preparation:** 2026-10-24. Research states remain **LOCAL_PROVISIONAL_v0.1** and require case-specific human approval for any stronger designation.
 
@@ -20,6 +20,6 @@
 - Native/canonical RDL validators were **NOT_RUN**, and the old Codex Cloud frozen baseline/public draft was **NOT_RECOVERED**. Independent structural checks are not canonical RDL certification.
 - No company rating, investment advice, accusation, public technical acceptance certification, or authorization to act follows from these research stop-points.
 
-Publication must use **a new public repository with a fresh Git history**, containing only this curated projection (and a suitable LICENSE/README if separately approved). Do **not** make the existing `se2cases` private repository public: its previous commits contain internal research ledgers and audit metadata.
+This public repository was created with an independent fresh Git history, containing only the curated projection files. The underlying `se2cases` repository remains private; its internal research ledgers, audit metadata, and source bytes are not published here.
 
 No raw/private case files or local absolute source paths belong in the public projection.
